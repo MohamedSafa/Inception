@@ -1,0 +1,6 @@
+secrets/
+srcs/.env
+
+# Claude Code files (local only)
+CLAUDE.md
+.claude/
